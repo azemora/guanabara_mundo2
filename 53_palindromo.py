@@ -8,3 +8,5 @@ if semespaco == semespaco[::-1]:
     print("A string é um palíndromo.")
 else:
     print("A string não é um palíndromo.")
+
+#for letra in range(len(semespaco) -1, -1, -1):
